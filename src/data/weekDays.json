@@ -1,0 +1,36 @@
+[{
+        "name": "Monday",
+        "id": "mon",
+        "position": 1
+    },
+    {
+        "name": "Tuesday",
+        "id": "tue",
+        "position": 2
+    },
+    {
+        "name": "Wednesday",
+        "id": "wed",
+        "position": 3
+    },
+    {
+        "name": "Thursday",
+        "id": "thu",
+        "position": 4
+    },
+    {
+        "name": "Friday",
+        "id": "fri",
+        "position": 5
+    },
+    {
+        "name": "Saturday",
+        "id": "sat",
+        "position": 6
+    },
+    {
+        "name": "Sunday",
+        "id": "sun",
+        "position": 0
+    }
+]

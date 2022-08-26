@@ -1,0 +1,52 @@
+export const themes = {
+    dark: {
+        btnColor: '#3500D3',
+        btnHoverColor: '#0fb6cc',
+        sectionBgColor: '#282828',
+        globalBgColor: '#000000',
+        firstGraphColor: '#3500D3',
+        secondGraphColor: '#bf3c7d',
+        xLineGraph: '#bf3c7d',
+        yLineGraph: '#3500D3',
+        btnTextColor: '#ffffff',
+        mainTextColor: '#ffffff',
+        borderColor: '#ffffff',
+        sliderColor: '#3500D3',
+        checkBoxColor: '#3500D3',
+        activeLinkColor: '#0fb6cc',
+        tableBgColor: '#0C0032',
+        tableBorderColor: '#ffffff',
+        tableHeaderBgColor: '#190061',
+        navigationBgColor: '#0C0032',
+        calendarBgColor: '#845EC2',
+        id: 'dark',
+    },
+
+    light: {
+        btnColor: 'linear-gradient(90deg, rgba(136,96,208,1) 20%, rgba(86,128,233,1) 70%)',
+        btnHoverColor: '#5ab9ea',
+        sectionBgColor: '#c1c8e4',
+        // globalBgColor:
+        //   'linear-gradient(90deg, rgba(193,200,228,1) 6%, rgba(132,206,235,1) 27%, rgba(90,185,234,1) 51%, rgba(132,206,235,1) 70%, rgba(193,200,228,1) 90%)',
+        globalBgColor: 'white',
+        xLineGraph: '#bf3c7d',
+        yLineGraph: '#3500D3',
+        firstGraphColor: 'orange',
+        secondGraphColor: '#5ab9ea',
+        btnTextColor: '#ffffff',
+        mainTextColor: 'black',
+        borderColor: '#8860D0',
+        sliderColor: '#8860D0',
+        checkBoxColor: '#8860D0',
+        activeLinkColor: '#8860D0',
+        tableBgColor: '#ffffff',
+        tableBorderColor: '#8860D0',
+        tableHeaderBgColor: '#c1c8e4',
+        navigationBgColor: '#5ab9ea',
+        calendarBgColor: '#c1c8e4',
+
+        id: 'light',
+    },
+};
+
+export default themes;

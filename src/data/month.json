@@ -1,0 +1,88 @@
+{
+  "months": [
+    {
+      "name": "January",
+      "id": "Jan",
+      "short": "jan",
+      "month": 1,
+      "length": 31
+    },
+    {
+      "name": "February",
+      "id": "Feb",
+      "short": "feb",
+      "month": 2,
+      "length": 28
+    },
+    {
+      "name": "March",
+      "id": "Mar",
+      "short": "mar",
+      "month": 3,
+      "length": 31
+    },
+    {
+      "name": "April",
+      "id": "Apr",
+      "short": "apr",
+      "month": 4,
+      "length": 30
+    },
+    {
+      "name": "May",
+      "id": "May",
+      "short": "may",
+      "month": 5,
+      "length": 31
+    },
+    {
+      "name": "June",
+      "id": "Jun",
+      "short": "jun",
+      "month": 6,
+      "length": 31
+    },
+    {
+      "name": "July",
+      "id": "Jul",
+      "short": "jul",
+      "month": 7,
+      "length": 31
+    },
+    {
+      "name": "August",
+      "id": "Aug",
+      "short": "aug",
+      "month": 8,
+      "length": 31
+    },
+    {
+      "name": "September",
+      "id": "Sep",
+      "short": "sep",
+      "month": 9,
+      "length": 30
+    },
+    {
+      "name": "October",
+      "id": "Oct",
+      "short": "oct",
+      "month": 10,
+      "length": 31
+    },
+    {
+      "name": "November",
+      "id": "Nov",
+      "short": "nov",
+      "month": 11,
+      "length": 30
+    },
+    {
+      "name": "December",
+      "id": "Dec",
+      "short": "dec",
+      "month": 12,
+      "length": 31
+    }
+  ]
+}

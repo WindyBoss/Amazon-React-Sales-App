@@ -1,0 +1,440 @@
+
+
+{
+    "sku": [
+        "RED-WINE-GLASS-AG-490ML-v2",
+        "WHITE-WINE-GLASS-AG-390ML-v2",
+        "WATER-GLASS-AVANT-GARDE-540ML-v2",
+        "WATER-GLASS-AVANT-GARDE-6-v2",
+        "WATER-GLASS-SPLEN-480ML-v2",
+        "WATER-GLASS-SPLENDOUR-400ML-v2",
+        "WATER-GLASS-ELITE-360ML-v2",
+        "WATER-CARAFE-PURE-1000ML-v2",
+        "MARTINI-GLASS-ELITE-150ML-v2",
+        "WATER-GLASS-BLENDED-350ML-v2",
+        "WHISKY-GLASS-SALVE-300ML-v2",
+        "WHITE-WINE-GLASS-SPLEN-200ML-v2",
+        "CHAMPAGNE-GLASS-AVANT-GARDE-180ML-v2",
+        "TEA-GLASS-BASIC-250ML-v2",
+        "BEER-GLASS-ELITE-WHITE-500ML-v2",
+        "BEER-GLASS-CHILL-500ML-v2",
+        "2xWATER-GLASS-ELITE-360ML-v2",
+        "BEER-GLASS-AVANT-GARDE-420ML-v2",
+        "2xWATER-GLASS-AVANT-GARDE-6-v2",
+        "2xWATER-GLASS-AVANT-GARDE-540ML-v2",
+        "COCKTAILS-GLASS-AVANT-GARDE-300ML-v2",
+        "WATER-GLASS-GLAMOUR-360ML-v2",
+        "2xWATER-GLASS-SPLEN-480ML-v2",
+        "WINE-GLASS-HARMONY-500ML-v2",
+        "2xWATER-GLASS-SPLENDOUR-400ML-v2",
+        "WATER-GLASS-PURE-200ML-v2",
+        "CRAFT-BEER-GLASS-SPLENDOUR-6-v2",
+        "CHAMPAGNE-GLASS-HARMONY-240ML-v2",
+        "WHITE-WINE-VENEZIA-250ML-v2",
+        "BEER-GLASS-ELITE-500ML-v2",
+        "DESSERTBOWL-GLASS-KRISTA-380ML-v2",
+        "CHAMPAGNE-GLASS-VENEZIA-200ML-v2",
+        "RED-WINE-GLASS-SPLEN-300ML-v2",
+        "MARGARITA-GLASS-AVANT-GARDE-270ML-v2",
+        "RED-WINE-VENEZIA-350ML-v2",
+        "WHISKY-GLASS-ELITE-300ML-v2.1",
+        "BEER-GLASS-SPLENDOR-500ML-v2",
+        "PROSECCO-GLASS-HARMONY-280ML-v2",
+        "COGNAC-GLASS-HARMONY-550ML-v2",
+        "2xCHAMPAGNE-GLASS-AVANT-GARDE-180ML-v2",
+        "JUICE-GLASS-HARMONY-410ML-v2",
+        "WINE-GLASS-HARMONY-580ML-v2",
+        "WHISKY-SET-CARAFE-GLASSES-FJORD-v2",
+        "JUICE-GLASS-ILLUMINATION-300ml-v2",
+        "CARAFE&WATERGLASS-PURE-250ML&1000ML-v2",
+        "BEER-SET-BREWERY-GLASSES-v2",
+        "JUG-ROMANCE-1600ML-v2",
+        "VODKA-GLASS-ILUMINATION-40ML-v2",
+        "2xWATER-GLASS-PURE-200ML-v2",
+        "FBA15CN5Y3Y9_unexpected_item_01",
+        "CHAMPAGNE-GLASS-ILUMINATION -180ML-v2",
+        "JUG-ILUMINATION-1300ML-v2",
+        "SWEET-JAR-2700ML-v2",
+        "LIQUOR-GLASS-SPLENDOUR-60ML-v2",
+        "VODkA-GLASS-SHOT-45ML-v2",
+        "WHISKY-CARAFE-CARO-1000ML-v2",
+        "2x-VODKA-GLASS-SHOT-45ML-v2",
+        "2xWHISKY-GLASS-ELITE-300ML-v2.1",
+        "RED-WINE-GLASS-ILLUMINATION-250ML-v2",
+        "2xVODKA-GLASS-SHOT-50ML-v2",
+        "WHISKY&WATER-GLASS-ELITE-300ML&360ML-v2",
+        "WINE-CARAFE-HARMONY-1600ML-v2",
+        "JUG-SPLENDOUR-1200ML-v2",
+        "WHISKY-GLASS-GLAMOUR-300ML-v2",
+        "WINE-SET-CARAFE-GLASSES-HARMONY-v2",
+        "WHISKY-GLASS-ROLY-POLY-200ML-v2",
+        "RAINBOW-GIN-GLASS-VENEZIA-480ML",
+        "RAINBOW-WATER-GLASS-BLENDED-510ML",
+        "VODKA-GLASS-SHOT-50ML-v2",
+        "BURG-RED-WINE-GLASS-SPLEN-860ML-v2",
+        "VASE-FLOWER-WAVE-27CM-v2",
+        "WINE-CARAFE-AVANT-GARDE-1800ML-v2",
+        "WINE-CARAFE-VINOTECA-1500ML-v2",
+        "GIN-GLASS-VENEZIA-480ML-v2",
+        "GIN-GLASS-HARMONY-570ML-v2",
+        "BEER-GLASS-ELITE-DARK-500ML",
+        "BEER-GLASS-PURE-530ML",
+        "CANDLE-GLAMOUR-BASIL",
+        "CANDLE-ROMANCE-AMBRETOUREG",
+        "CANDLE-SPLENDOUR-ANTHRACITE",
+        "CANDLE-SPLENDOUR-BOISINTENSE",
+        "CANDLE-SPLENDOUR-WOMANINBLUE",
+        "CIDER-GLASS-MIXOLOGY-350ML",
+        "GIN-GLASS-HARMONY-700ML",
+        "RED-WINE-GLASS-KRISTA-220ML",
+        "WATER-GLASS-BLENDED-510ML",
+        "WATER-GLASS-PURE-350ML",
+        "WHISKY-GLASS-EPICURE-100ML",
+        "CHAMPAGNE-GLASS-GLAMOUR-170ML",
+        "WINE-GLASS-GLAMOUR-350ML",
+        "WATER-GLASS-BLENDED-350ML",
+        "RAINBOW-CARAFE-PURE-900ML",
+        "BEER-GLASS-PURE-530ML-v2",
+        "WINE-CARAFE-CONNOISSEUR-1000ML",
+        "BEER-GLASS-HARMONY-500ML",
+        "WHITE-WINE-GLASS-INFINITY-400ML",
+        "WATER-GLASS-INFINITY-490ML",
+        "RED-WINE-GLASS-INFINITY-500ML",
+        "WATER-SET-SPLENDOUR-600&200ML",
+        "WATER-GLASS-PURE-250ML",
+        "WATER-GLASS-MIXOLOGY-500ML",
+        "WHISKY-GLASS-XLINE-290ML-v2",
+        "COGNAC-GLASS-BALANCE-480ML",
+        "DESSERTBOWL-GLASS-TAST-350ML-FBM",
+        "RED-WINE-GLASS-PURE-350ML-FBM"
+    ]
+}
+
+{
+    "sku": [
+        {
+            "sku": "MARGARITA-GLASS-AVANT-GARDE-270ML-v2",
+            "asin": "B07NTQJ3MT"
+        },
+        {
+            "sku": "2xWATER-GLASS-AVANT-GARDE-540ML-v2",
+            "asin": "B07PF771BY"
+        },
+        {
+            "sku": "2xWATER-GLASS-SPLENDOUR-400ML-v2",
+            "asin": "B07PG5BMX7"
+        },
+        {
+            "sku": "2xWATER-GLASS-SPLEN-480ML-v2",
+            "asin": "B07PH9RCDT"
+        },
+        {
+            "sku": "BEER-GLASS-CHILL-500ML-v2",
+            "asin": "B07NTSK2VZ"
+        },
+        {
+            "sku": "TEA-GLASS-BASIC-250ML-v2",
+            "asin": "B07NTTP7YL"
+        },
+        {
+            "sku": "WHITE-WINE-GLASS-AG-390ML-v2",
+            "asin": "B07K1JWCVR"
+        },
+        {
+            "sku": "WATER-GLASS-ELITE-360ML-v2",
+            "asin": "B07K1G5XP3"
+        },
+        {
+            "sku": "BEER-GLASS-AVANT-GARDE-420ML-v2",
+            "asin": "B07NTTCQ5H"
+        },
+        {
+            "sku": "BEER-GLASS-SPLENDOR-500ML-v2",
+            "asin": "B07NTLJPV4"
+        },
+        {
+            "sku": "WATER-GLASS-SPLENDOUR-400ML-v2",
+            "asin": "B07K1JXSMC"
+        },
+        {
+            "sku": "WATER-GLASS-AVANT-GARDE-540ML-v2",
+            "asin": "B07K1HPQMQ"
+        },
+        {
+            "sku": "WHISKY-GLASS-SALVE-300ML-v2",
+            "asin": "B07NTKQJJV"
+        },
+        {
+            "sku": "COGNAC-GLASS-HARMONY-550ML-v2",
+            "asin": "B07NTYL2HG"
+        },
+        {
+            "sku": "CHAMPAGNE-GLASS-VENEZIA-200ML-v2",
+            "asin": "B07NTRC11Z"
+        },
+        {
+            "sku": "CHAMPAGNE-GLASS-AVANT-GARDE-180ML-v2",
+            "asin": "B07K1SQWSR"
+        },
+        {
+            "sku": "WATER-GLASS-AVANT-GARDE-6-v2",
+            "asin": "B07JZZ366C"
+        },
+        {
+            "sku": "WINE-GLASS-HARMONY-580ML-v2",
+            "asin": "B07NTRB8KH"
+        },
+        {
+            "sku": "RAINBOW-WATER-GLASS-BLENDED-510ML",
+            "asin": "B088X198H4"
+        },
+        {
+            "sku": "BEER-GLASS-ELITE-WHITE-500ML-v2",
+            "asin": "B07NTMJHTZ"
+        },
+        {
+            "sku": "WHITE-WINE-GLASS-SPLEN-200ML-v2",
+            "asin": "B07K1MDMG5"
+        },
+        {
+            "sku": "SWEET-JAR-2700ML-v2",
+            "asin": "B07QC2GJ4M"
+        },
+        {
+            "sku": "WATER-GLASS-SPLEN-480ML-v2",
+            "asin": "B07K1J5MJH"
+        },
+        {
+            "sku": "BEER-GLASS-ELITE-500ML-v2",
+            "asin": "B07NTW3DTQ"
+        },
+        {
+            "sku": "WATER-GLASS-BLENDED-350ML-v2",
+            "asin": "B07NTJK3WM"
+        },
+        {
+            "sku": "RED-WINE-GLASS-AG-490ML-v2",
+            "asin": "B07K1PPVBW"
+        },
+        {
+            "sku": "WATER-GLASS-GLAMOUR-360ML-v2",
+            "asin": "B07NTR9WM1"
+        },
+        {
+            "sku": "RED-WINE-GLASS-SPLEN-300ML-v2",
+            "asin": "B07K1H7S7Y"
+        },
+        {
+            "sku": "2xWHISKY-GLASS-ELITE-300ML-v2.1",
+            "asin": "B08B59QB88"
+        },
+        {
+            "sku": "LIQUOR-GLASS-SPLENDOUR-60ML-v2",
+            "asin": "B07Y3VFQZ3"
+        },
+        {
+            "sku": "VASE-FLOWER-WAVE-27CM-v2",
+            "asin": "B07NTHTYRW"
+        },
+        {
+            "sku": "PROSECCO-GLASS-HARMONY-280ML-v2",
+            "asin": "B07QBC93PP"
+        },
+        {
+            "sku": "JUICE-GLASS-HARMONY-410ML-v2",
+            "asin": "B07NTWM978"
+        },
+        {
+            "sku": "2xWATER-GLASS-ELITE-360ML-v2",
+            "asin": "B07PH9RX9H"
+        },
+        {
+            "sku": "COCKTAILS-GLASS-AVANT-GARDE-300ML-v2",
+            "asin": "B07NTZG6BP"
+        },
+        {
+            "sku": "WATER-GLASS-PURE-200ML-v2",
+            "asin": "B07Y43HSZB"
+        },
+        {
+            "sku": "RAINBOW-GIN-GLASS-VENEZIA-480ML",
+            "asin": "B088X26XPP"
+        },
+        {
+            "sku": "GIN-GLASS-HARMONY-570ML-v2",
+            "asin": "B07Y3X9THW"
+        },
+        {
+            "sku": "WHISKY-GLASS-ELITE-300ML-v2.1",
+            "asin": "B07K1J147X"
+        },
+        {
+            "sku": "2xVODKA-GLASS-SHOT-50ML-v2",
+            "asin": "B07Y3VSRNM"
+        },
+        {
+            "sku": "WHISKY-SET-CARAFE-GLASSES-FJORD-v2",
+            "asin": "B07NTC5GQ1"
+        },
+        {
+            "sku": "DESSERTBOWL-GLASS-KRISTA-380ML-v2",
+            "asin": "B07NTVPVVT"
+        },
+        {
+            "sku": "WINE-GLASS-HARMONY-500ML-v2",
+            "asin": "B07NT7K6PN"
+        },
+        {
+            "sku": "RED-WINE-VENEZIA-350ML-v2",
+            "asin": "B07NTG7FG2"
+        },
+        {
+            "sku": "2xCHAMPAGNE-GLASS-AVANT-GARDE-180ML-v2",
+            "asin": "B07PG5BVPJ"
+        },
+        {
+            "sku": "WHISKY-GLASS-GLAMOUR-300ML-v2",
+            "asin": "B07NTMG285"
+        },
+        {
+            "sku": "WATER-CARAFE-PURE-1000ML-v2",
+            "asin": "B07K1HGY87"
+        },
+        {
+            "sku": "GIN-GLASS-VENEZIA-480ML-v2",
+            "asin": "B07Y3SWJXC"
+        },
+        {
+            "sku": "JUG-ROMANCE-1600ML-v2",
+            "asin": "B07K1VJP3J"
+        },
+        {
+            "sku": "CRAFT-BEER-GLASS-SPLENDOUR-6-v2",
+            "asin": "B07K1M6BSK"
+        },
+        {
+            "sku": "WHITE-WINE-VENEZIA-250ML-v2",
+            "asin": "B07NTPMD9P"
+        },
+        {
+            "sku": "MARTINI-GLASS-ELITE-150ML-v2",
+            "asin": "B07NTVCHB8"
+        },
+        {
+            "sku": "BURG-RED-WINE-GLASS-SPLEN-860ML-v2",
+            "asin": "B07K1P4N4C"
+        },
+        {
+            "sku": "2xWATER-GLASS-AVANT-GARDE-6-v2",
+            "asin": "B07PKJJLK5"
+        },
+        {
+            "sku": "JUICE-GLASS-ILLUMINATION-300ml-v2",
+            "asin": "B07NTKCP5N"
+        },
+        {
+            "sku": "2x-VODKA-GLASS-SHOT-45ML-v2",
+            "asin": "B07Y43CRWS"
+        },
+        {
+            "sku": "VODkA-GLASS-SHOT-45ML-v2",
+            "asin": "B07Y3XQ535"
+        },
+        {
+            "sku": "CHAMPAGNE-GLASS-HARMONY-240ML-v2",
+            "asin": "B07NTS5L2W"
+        },
+        {
+            "sku": "WINE-CARAFE-VINOTECA-1500ML-v2",
+            "asin": "B07K1DSBG8"
+        },
+        {
+            "sku": "WHISKY-CARAFE-CARO-1000ML-v2",
+            "asin": "B07K1P1VXX"
+        },
+        {
+            "sku": "BEER-SET-BREWERY-GLASSES-v2",
+            "asin": "B07NTSTCDG"
+        },
+        {
+            "sku": "2xWATER-GLASS-PURE-200ML-v2",
+            "asin": "B07Y44N9V3"
+        },
+        {
+            "sku": "WATER-GLASS-PURE-350ML",
+            "asin": "B08Q4D78SP"
+        },
+        {
+            "sku": "CIDER-GLASS-MIXOLOGY-350ML",
+            "asin": "B08Q4DF6X3"
+        },
+        {
+            "sku": "GIN-GLASS-HARMONY-700ML",
+            "asin": "B08Q4GD5QQ"
+        },
+        {
+            "sku": "BEER-GLASS-ELITE-DARK-500ML",
+            "asin": "B08Q4CWDWK"
+        },
+        {
+            "sku": "BEER-GLASS-PURE-530ML",
+            "asin": "B08Q4BX51G"
+        },
+        {
+            "sku": "WATER-GLASS-BLENDED-510ML",
+            "asin": "B08Q4BYFLY"
+        },
+        {
+            "sku": "WHISKY-GLASS-EPICURE-100ML",
+            "asin": "B08WRXTW32"
+        },
+        {
+            "sku": "RED-WINE-GLASS-KRISTA-220ML",
+            "asin": "B08WRJS4CW"
+        },
+        {
+            "sku": "CHAMPAGNE-GLASS-GLAMOUR-170ML",
+            "asin": "B08WRCS8BY"
+        },
+        {
+            "sku": "WATER-GLASS-BLENDED-350ML",
+            "asin": "B08WRJHDN7"
+        },
+        {
+            "sku": "WINE-GLASS-GLAMOUR-350ML",
+            "asin": "B08WRJSQK8"
+        },
+        {
+            "sku": "RAINBOW-CARAFE-PURE-900ML",
+            "asin": "B08WRYWPKX"
+        },
+        {
+            "sku": "COGNAC-GLASS-BALANCE-480ML",
+            "asin": "B09NQCWC8Q"
+        },
+        {
+            "sku": "WHISKY-GLASS-XLINE-290ML-v2",
+            "asin": "B09NQDZBSC"
+        },
+        {
+            "sku": "WATER-GLASS-PURE-250ML",
+            "asin": "B09NQDJML7"
+        },
+        {
+            "sku": "WATER-GLASS-INFINITY-490ML",
+            "asin": "B09NYKDPVC"
+        },
+        {
+            "sku": "WHITE-WINE-GLASS-INFINITY-400ML",
+            "asin": "B09NYHY2MP"
+        },
+        {
+            "sku": "RED-WINE-GLASS-INFINITY-500ML",
+            "asin": "B09NYKGZYM"
+        },
+        {
+            "sku": "BEER-GLASS-HARMONY-500ML",
+            "asin": "B09P3SC4JD"
+        }
+    ]
+}

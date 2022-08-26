@@ -1,0 +1,44 @@
+{
+    "markets": [
+        {
+            "id": "de",
+            "name": "de",
+            "fullName": "Germany"
+        },
+        {
+            "name": "fr",
+            "id": "fr",
+            "fullName": "France"
+        },
+        {
+            "name": "uk",
+            "id": "uk",
+            "fullName": "United Kingdom"
+        },
+        {
+            "name": "it",
+            "id": "it",
+            "fullName": "Italy"
+        },
+        {
+            "name": "es",
+            "id": "es",
+            "fullName": "Spain"
+        },
+        {
+            "name": "nl",
+            "id": "nl",
+            "fullName": "Netherlands"
+        },
+        {
+            "name": "pl",
+            "id": "pl",
+            "fullName": "Poland"
+        },
+        {
+            "name": "se",
+            "id": "se",
+            "fullName": "Sweden"
+        }
+    ]
+}
